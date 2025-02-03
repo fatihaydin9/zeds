@@ -101,8 +101,14 @@ Zeds uses a `config.json` file located in the current working directory to store
 You can install globally Zeds-Go by using go intall command: 
 
 ```
-go install github.com/fatihaydin9/Zeds-go/cmd/Zeds@latest
+go install github.com/fatihaydin9/zeds@v0.1.0
 ``` 
+
+or
+
+```
+go install github.com/fatihaydin9/zeds@latest
+```
 
 that's it!
 
